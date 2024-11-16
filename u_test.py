@@ -4,8 +4,7 @@ from app import get_commits, build_mermaid_graph
 class TestDependencyVisualizer(unittest.TestCase):
     
     def test_get_commits(self):
-        # Здесь можно добавить тесты для проверки получения коммитов
-        # Например, создать временный git-репозиторий и проверить
+        
         pass
     
     def test_build_mermaid_graph(self):
